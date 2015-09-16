@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說給孤長者女得度因緣經
+#+DATE: 2015-08-30 19:32:35.937611
+#+PROPERTY: JUAN 0
